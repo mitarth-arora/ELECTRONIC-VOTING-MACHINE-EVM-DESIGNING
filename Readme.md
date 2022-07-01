@@ -11,3 +11,5 @@ We tried to keep the logic simple so that it can be easily implemented and expla
 
 
 <img src = "https://github.com/mitarth-arora/ELECTRONIC-VOTING-MACHINE-EVM-DESIGNING/blob/main/Flowchart.png" width="400" height="450">
+
+Working Model and it's video could be seen from the above files. 
