@@ -8,4 +8,6 @@ It is being depiced by the block diagram below:
 <img src = "https://github.com/mitarth-arora/ELECTRONIC-VOTING-MACHINE-EVM-DESIGNING/blob/main/Block%20Diagram.png" width="400" height="450">
 
 We tried to keep the logic simple so that it can be easily implemented and explained out with the help of flowchart shown below:
+
+
 <img src = "https://github.com/mitarth-arora/ELECTRONIC-VOTING-MACHINE-EVM-DESIGNING/blob/main/Flowchart.png" width="400" height="450">
